@@ -27,3 +27,4 @@
     "prettier": "^3.0.3"
   }
 }
+npm install -g expo-cli
